@@ -27,6 +27,7 @@ The total number of votes each candidate won
 The winner of the election based on popular vote
 Your analysis should align with the following results:
 
+
 markdown
 Election Results
 -------------------------
@@ -40,7 +41,11 @@ Winner: Diana DeGette
 -------------------------
 In addition, your final script should both print the analysis to the terminal and export a text file with the results.
 
+
+
 Requirements
+
+
 Correctly Reads in the CSV (10 points)
 Reads in the CSVs for both PyBank and PyPoll using Python (5 points)
 Successfully stores the header row (5 points)
@@ -71,13 +76,19 @@ Place your election data CSV file in the Resources folder.
 Run the script:
 bash
 The results will be printed in the terminal and saved in a text file named election_results.txt in the analysis folder.
+
+
 References
+
 ChatGPT by OpenAI
 Python for Beginners - Learn Python in 1 Hour
 Python Introduction - W3Schools
 
+
 PyBank
+
 Overview
+
 PyBank is a Python script designed to analyze financial records and provide a summary of financial results. The script reads data from a CSV file, performs calculations, and outputs the results to the terminal and a text file.
 
 Assignment Instructions
@@ -149,3 +160,11 @@ Place your financial data CSV file in the Resources folder.
 Run the script:
 bash
 The results
+
+
+References
+
+ChatGPT by OpenAI
+Python for Beginners - Learn Python in 1 Hour
+Python Introduction - W3Schools
+
