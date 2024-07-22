@@ -81,7 +81,11 @@ The results will be printed in the terminal and saved in a text file named elect
 References
 
 ChatGPT by OpenAI
+
+
 Python for Beginners - Learn Python in 1 Hour
+
+
 Python Introduction - W3Schools
 
 
@@ -164,7 +168,10 @@ The results
 
 References
 
+
 ChatGPT by OpenAI
+
 Python for Beginners - Learn Python in 1 Hour
+
 Python Introduction - W3Schools
 
