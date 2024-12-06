@@ -173,11 +173,3 @@ The following resources were instrumental in completing this project:
 ### **Notes**
 Feel free to contact me via GitHub for any issues, suggestions, or discussions about this project. Contributions are welcome!
 
----
-
-### Fixes Made:
-1. Proper section separation with blank lines and heading formatting.
-2. Added bullet points, code blocks, and horizontal rules for better readability.
-3. Fixed placeholders for images to display as visually distinct results sections.
-
-Let me know if you need additional tweaks or enhancements!
